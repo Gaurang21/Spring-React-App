@@ -4,7 +4,7 @@
    Run the ReactSpringRestAPI.java file
    
 2. Run client 
-   Open client folder in vscode and run the following command in the terminal.
+   Open client folder in vscode and run the following command in the terminal .
    ```
    npm start
    ```
